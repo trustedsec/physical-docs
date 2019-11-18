@@ -1,0 +1,36 @@
+[Choose Date]
+
+
+To Whom It May Concern,
+
+ConsultingCompanyName is performing a physical security assessment on behalf of [CLIENT_NAME]. This involves simulating an attacker attempting to circumvent and/or bypass the physical security controls of the organization. [CONSULTANT_NAME(S)] of ConsultingCompanyName, LLC [is/are] fully authorized to conduct this assessment and in the event that they are detected or caught, they will document the encounter and proceed with any remaining phases of the assessment.
+
+The purpose of this engagement is to identify weaknesses and exposures that the organization has from a physical security standpoint and determine the efforts necessary to ensure that the information and personnel are protected against these types of attacks. This assessment is fully sanctioned and authorized by [CLIENT_NAME] and is not a criminal event, intrusion or break in attempt under 18 USC 1030 or any other local, state or federal law or criminal ordinance
+
+Should you have any questions, concerns, or need to verify the accuracy of this document, please contact one of the following [CLIENT_NAME] managers or priority contacts on the following list 24/7:
+
+Name:		24/7 Phone:	
+Name:		24/7 Phone:	
+Name:		24/7 Phone:	
+Name:		24/7 Phone:
+	
+(A minimum of two (2) contacts is required and must be available 24/7 to validate this document and the associated activities).
+
+THIS FORM MUST BE PROPERLY NOTARIZED BELOW.
+
+-Signature page follows-
+
+
+[CLIENT_POC_SIGNATURE]
+
+
+Name:		Date:	
+
+County of ________________	)	ss:
+State of Ohio			)		
+
+Sworn to, acknowledged and subscribed in my presence this ____ day of November, 2019 by ___________ as his/her free act and deed on behalf of [CLIENT].
+							
+																				_________________________________
+							NOTARY
+
