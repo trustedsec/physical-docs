@@ -1,4 +1,4 @@
-# Sample Templates and Legal Documentation for Physical Security Testing and Penetration Testing
+# Legal Documentation for Physical Security Testing
 
 This repository is TrustedSec language used for when conducting physical penetration tests. This wording was created utilizing a third party law firm on behalf of TrustedSec to apply as much protections around conducting physical security assessments due to the Iowa arrests regarding Coalfire.  Our goal with releasing this documentation is to hopefully help others that conduct physical security assessments and help them structure the engagements in a way that protects them as much as possible.
 
