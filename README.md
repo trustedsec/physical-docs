@@ -1,8 +1,6 @@
-This repository is TrustedSec language used for when conducting physical penetration tests. This wording was created utilizing a third party law firm on behalf of TrustedSec to apply as much protections around conducting physical security assessments due to the Iowa arrests regarding Coalfire. 
+This repository is TrustedSec language used for when conducting physical penetration tests. This wording was created utilizing a third party law firm on behalf of TrustedSec to apply as much protections around conducting physical security assessments due to the Iowa arrests regarding Coalfire.  Our goal with releasing this documentation is to hopefully help others that conduct physical security assessments and help them structure the engagements in a way that protects them as much as possible.
 
-Our goal with releasing this documentation is to hopefully help others that conduct physical security assessments and help them structure the engagements in a way that protects them as much as possible.
-
-Note that we are releasing this as is, and it is up to you to ensure that you are adequately protected. TrustedSec does not place a guarentee on any of the information and is provided to be used as a template that can be used with other organizations.
+We are releasing this as is, and it is up to you to ensure that you are adequately protected. TrustedSec does not place a guarentee on any of the information and is provided to be used as a template that can be used with other organizations.
 
 The three documents are not joined together, if you only have a statement of work - adding the SOW verbiage is fine. For master service agreements, there is the MSA section. The authorization form should be created with your letterhead and the companies and make it look professional looking. We recommend only having an officer of the company sign and a notary to validate that the person that is signing the document is the actual person giving authorization to conduct the assessments.
 
@@ -15,5 +13,7 @@ Some words of advice, while it is on the customer to authorize you to conduct a 
 * Discuss with the customer what a typical physical penetration test is and explain the scenarios and situations.
 * Consider notifying law enforcement ahead of time if acceptable by the customer. 
 * Ensure that the contact information on the authorization letter is correct and check them before actually conducting the assessment.
+
+Our intent with this release to help other companies and organizations provide langauge around conducting physical security assessments. We have added a LICENSE file which essentially grants full usage, modification, selling, or anything else to you without any tie to TrustedSec. This means use this to help your organization anyway you can, and can be used for whatever purpose you see fit. This documentation comes without a warranty or guarantee in any fashion.
 
 More information here: https://www.trustedsec.com/blog/a-message-of-support-coalfire-consultants-charged/
