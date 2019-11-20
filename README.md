@@ -15,6 +15,7 @@ Some words of advice, while it is on the customer to authorize you to conduct a 
 * Discuss with the customer what a typical physical penetration test is and explain the scenarios and situations.
 * Consider notifying law enforcement ahead of time if acceptable by the customer. 
 * Ensure that the contact information on the authorization letter is correct and check that contact information before actually conducting the assessment.
+* The customer should notify law enforcement of such activity and this discussion should occur. Company performing the assessment should also push for law enforcement to be notified and should contact law enforcement on behalf of the customer if necessary.
 
 Our intent with this release is to help other companies and organizations provide langauge around conducting physical security assessments. We have added a LICENSE file which essentially grants full usage, modification, selling, or anything else to you without any tie to TrustedSec. This means use this to help your organization anyway you can, and use it for whatever purpose you see fit. This documentation comes without a warranty or guarantee in any fashion.
 
